@@ -21,6 +21,7 @@ public class LoginMemberDAO {
 	public static final int MEMBER_LOGIN_IS_NOT = -1;
 	
 	private static final String DB_DRIVER_CLASS = "org.mariadb.jdbc.Driver";
+	// private static final String DB_URL = "jdbc:mariadb://172.30.1.46:3306/test";
 	private static final String DB_URL = "jdbc:mariadb://192.168.35.173:3306/test";
 	// private static final String DB_URL = "jdbc:mariadb://localhost:3306/test";
 	
